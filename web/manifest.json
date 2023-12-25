@@ -1,11 +1,11 @@
 {
-    "name": "projekt_mobilne",
-    "short_name": "projekt_mobilne",
+    "name": "pokebattleadvisor",
+    "short_name": "pokebattleadvisor",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Projectc for Mobile Application Programming",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

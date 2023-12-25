@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "pl.uwb" "\0"
-            VALUE "FileDescription", "projekt_mobilne" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "pokebattleadvisor" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "projekt_mobilne" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 pl.uwb. All rights reserved." "\0"
-            VALUE "OriginalFilename", "projekt_mobilne.exe" "\0"
-            VALUE "ProductName", "projekt_mobilne" "\0"
+            VALUE "InternalName", "pokebattleadvisor" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "pokebattleadvisor.exe" "\0"
+            VALUE "ProductName", "pokebattleadvisor" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -1,6 +1,6 @@
-# projekt_mobilne
+# pokebattleadvisor
 
-Projectc for Mobile Application Programming
+A new Flutter project.
 
 ## Getting Started
 
