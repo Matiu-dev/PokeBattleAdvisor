@@ -41,6 +41,8 @@ dev_dependencies:
     sdk: flutter
   http: ^1.1.2
   cached_network_image: ^3.3.0
+  json_cache: ^3.0.1
+  shared_preferences: ^2.2.2
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

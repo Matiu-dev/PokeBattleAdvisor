@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'QuizPage.dart';
-import 'DownloadJson.dart';
-import 'Pokemon.dart';
+import 'download/DownloadJson.dart';
+import 'model/Pokemon.dart';
 
 import 'package:flutter_cache_manager/flutter_cache_manager.dart';
 
